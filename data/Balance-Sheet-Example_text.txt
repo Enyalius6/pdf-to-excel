@@ -1,0 +1,118 @@
+=== TEXT CONTENT FROM Balance-Sheet-Example.pdf ===
+
+=== PAGE 1 TEXT ===
+Assets
+Current Assets
+1000 Cash
+1010 Checking
+583,961
+1020 Savings
+224,600
+1030 Petty Cash
+89,840
+Total Cash
+898,402
+                   
+1100 Accounts Receivable
+3,593,607
+                
+1200 Work in Process
+589,791
+                   
+1300 Other Current Assets
+1310 Prepaid Rent
+164,593
+1320 Prepaid Liability Insurance
+109,728
+Total Other Current Assets
+274,321
+                   
+Total Current Assets
+5,356,121
+                
+Non-Current Assets
+1400 Net Computer Equipment
+185,167
+                   
+1500 Net Furniture, Fixtures, & Equipment
+178,309
+                   
+1600 Net Field Equipment
+205,741
+                   
+1700 Net Real Estate
+548,642
+                   
+1800 Net Leasehold Improvements
+144,019
+                   
+1900 Other Assets
+240,031
+                   
+Total Non-Current Assets
+1,501,908
+                
+Total Assets
+6,858,029
+                
+Liabilities
+Current Liabilities
+2000 Accounts Payable
+548,642
+                   
+2100 Deferred Taxes
+253,747
+                   
+2200 Line of Credit Borrowing
+507,494
+                   
+2300 Current Portion of Long-Term Debt
+205,741
+                   
+2400 Other Current Liabilities
+500,636
+                   
+Total Current Liabilities
+2,016,261
+                
+XYZ, Inc.
+Balance Sheet
+As of December 31, 2018
+
+
+=== PAGE 2 TEXT ===
+Non-Current Liabilities
+2500 Long-Term Debt
+603,507
+                   
+2600 Other Liabilities
+267,463
+                   
+Total Non-Current Liabilities
+870,970
+                   
+Total Liabilities
+2,887,230
+Equity
+3000 Capital Stock
+1,462,599
+                
+3100 Treasury Stock
+(1,250,000)
+              
+3200 Retained Earnings
+3,758,200
+                
+Total Equity
+3,970,799
+                
+Total Liabilities and Equity
+6,858,029
+                
+Note: This is just an example of the format
+1.  Your Financial Statement Account titles may differ.                                                         
+2.  Your 
+chart of accounts will likely differ in the chronological order of accounts.  Account 
+numbers are shown here for demonstration purposes only.  Account numbers are 
+not required to be listed on the ICR schedule.
+

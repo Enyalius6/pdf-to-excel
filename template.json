@@ -1,0 +1,57 @@
+{
+  "company_name": "",
+  "report_title": "Balance Sheet",
+  "report_date": "",
+  "assets": {
+    "current_assets": {
+      "cash": {
+        "1000_cash": 0,
+        "1010_checking": 0,
+        "1020_savings": 0,
+        "1030_petty_cash": 0,
+        "total_cash": 0
+      },
+      "1100_accounts_receivable": 0,
+      "1200_work_in_process": 0,
+      "other_current_assets": {
+        "1310_prepaid_rent": 0,
+        "1320_prepaid_liability_insurance": 0,
+        "total_other_current_assets": 0
+      },
+      "total_current_assets": 0
+    },
+    "non_current_assets": {
+      "1400_net_computer_equipment": 0,
+      "1500_net_furniture_fixtures_equipment": 0,
+      "1600_net_field_equipment": 0,
+      "1700_net_real_estate": 0,
+      "1800_net_leasehold_improvements": 0,
+      "1900_other_assets": 0,
+      "total_non_current_assets": 0
+    },
+    "total_assets": 0
+  },
+  "liabilities": {
+    "current_liabilities": {
+      "2000_accounts_payable": 0,
+      "2100_deferred_taxes": 0,
+      "2200_line_of_credit_borrowing": 0,
+      "2300_current_portion_long_term_debt": 0,
+      "2400_other_current_liabilities": 0,
+      "total_current_liabilities": 0
+    },
+    "non_current_liabilities": {
+      "2500_long_term_debt": 0,
+      "2600_other_liabilities": 0,
+      "total_non_current_liabilities": 0
+    },
+    "total_liabilities": 0
+  },
+  "equity": {
+    "3000_capital_stock": 0,
+    "3100_treasury_stock": 0,
+    "3200_retained_earnings": 0,
+    "total_equity": 0
+  },
+  "total_liabilities_and_equity": 0
+}

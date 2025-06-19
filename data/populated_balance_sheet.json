@@ -1,0 +1,57 @@
+{
+  "company_name": "XYZ",
+  "report_title": "Balance Sheet",
+  "report_date": "December 31, 2018",
+  "assets": {
+    "current_assets": {
+      "cash": {
+        "1000_cash": 0,
+        "1010_checking": 583961.0,
+        "1020_savings": 224600.0,
+        "1030_petty_cash": 89840.0,
+        "total_cash": 898402.0
+      },
+      "1100_accounts_receivable": 3593607.0,
+      "1200_work_in_process": 589791.0,
+      "other_current_assets": {
+        "1310_prepaid_rent": 164593.0,
+        "1320_prepaid_liability_insurance": 109728.0,
+        "total_other_current_assets": 274321.0
+      },
+      "total_current_assets": 5356121.0
+    },
+    "non_current_assets": {
+      "1400_net_computer_equipment": 185167.0,
+      "1500_net_furniture_fixtures_equipment": 178309.0,
+      "1600_net_field_equipment": 205741.0,
+      "1700_net_real_estate": 548642.0,
+      "1800_net_leasehold_improvements": 144019.0,
+      "1900_other_assets": 240031.0,
+      "total_non_current_assets": 1501908.0
+    },
+    "total_assets": 6858029.0
+  },
+  "liabilities": {
+    "current_liabilities": {
+      "2000_accounts_payable": 548642.0,
+      "2100_deferred_taxes": 253747.0,
+      "2200_line_of_credit_borrowing": 507494.0,
+      "2300_current_portion_long_term_debt": 205741.0,
+      "2400_other_current_liabilities": 500636.0,
+      "total_current_liabilities": 2016261.0
+    },
+    "non_current_liabilities": {
+      "2500_long_term_debt": 603507.0,
+      "2600_other_liabilities": 267463.0,
+      "total_non_current_liabilities": 870970.0
+    },
+    "total_liabilities": 2887230.0
+  },
+  "equity": {
+    "3000_capital_stock": 1462599.0,
+    "3100_treasury_stock": -1250000.0,
+    "3200_retained_earnings": 3758200.0,
+    "total_equity": 3970799.0
+  },
+  "total_liabilities_and_equity": 6858029.0
+}
